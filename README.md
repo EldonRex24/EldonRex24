@@ -26,7 +26,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://facebook.com/Eldon Rex Santos" target="_blank">
+  <a href="https://www.facebook.com/eldonrex.santos" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/Eldon Rex Santos" target="_blank">
