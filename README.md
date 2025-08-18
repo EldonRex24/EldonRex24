@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Eldon Rex Santos! 👋</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/eldonsantos">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Future+Full+Stack+Developer;Passionate+About+Coding+%26+Learning" alt="Typing Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eldonsantos&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 ---
 
@@ -14,7 +23,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://facebook.com/Eldon Rex Santos" target="_blank">
@@ -23,4 +32,10 @@
   <a href="https://instagram.com/Eldon Rex Santos" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eldonsantos&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
