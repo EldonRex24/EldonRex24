@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Eldon Rex Santos! 👋</h1>
+<p align="center">
+  
+  <img src="https://[your-image-hosting-service]/bulsu-logo.png" alt="Bulacan State University Logo" width="150" />
+</p>
 
 <p align="center">
   <a href="https://github.com/eldonsantos">
