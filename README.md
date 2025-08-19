@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Eldon Rex Santos! 👋</h1>
-<p align="center">
   
-  <img src="https://[your-image-hosting-service]/bulsu-logo.png" alt="Bulacan State University Logo" width="150" />
-</p>
-
 <p align="center">
   <a href="https://github.com/eldonsantos">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Future+Full+Stack+Developer;Passionate+About+Coding+%26+Learning" alt="Typing Animation" />
